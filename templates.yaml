@@ -1,0 +1,4 @@
+welcome: Hello Armaan. This is Alexa. We are going to play the algebraic equation game. Are you ready?
+round: ok Armaan, You got {{ score }} correct answers out of {{ total }} so far. Question - if {{ number1 }} times x plus {{ number2 }} is {{ number3 }} then what is the value of x?
+win: Good job, Armaan!  Do you want to play again?
+lose: Sorry Armaan, that's the wrong answer.  Do you want to play again?
